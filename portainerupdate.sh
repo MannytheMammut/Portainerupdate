@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo docker stop portainer
 sudo docker rm portainer
 sudo docker pull portainer/portainer-ce
